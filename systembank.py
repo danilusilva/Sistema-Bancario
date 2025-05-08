@@ -1,3 +1,5 @@
+'''Desenvolvido por Danilu Silva - 08/05/2025'''
+
 import textwrap
 
 def menu():
